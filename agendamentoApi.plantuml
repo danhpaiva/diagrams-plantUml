@@ -1,0 +1,22 @@
+@startuml
+class Agendamento {
+
+}
+
+class Servico {
+
+}
+
+class Veiculo {
+  
+}
+
+class Cliente {
+  +String Nome
+  +String Email
+}
+
+class Endereco {
+
+}
+@enduml
